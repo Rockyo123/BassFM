@@ -1,0 +1,48 @@
+Bass FM is a Bass Synthesizer that utilizes FM modulation to create unique and interesting sounding basses. 
+The visual graph system allows the user to visually alter how the signal will be synthesized. 
+With an unlimited number of placements on the graph, no two basses will sound the same! 
+
+------------------------------------------------------------------------------------------------------------------------------------------
+Installation Instructions:
+
+No installation is required, simply run the exe file and you can use the application. 
+
+If you do not have Max installed on your computer, you must first run Microsoft Visual C++ 2013 Redistributable Package. The download for this can be found here: https://www.microsoft.com/en-us/download/details.aspx?id=40784
+
+------------------------------------------------------------------------------------------------------------------------------------------
+
+Using The App:
+
+In order to start the app, press the speaker button at the bottom left corner. 
+
+You can use the application with a midi keyboard or through the keyboard included at the top of the application.
+
+------------------------------------------------------------------------------------------------------------------------------------------
+
+FM Graphs:
+
+Modulation Index:
+
+The Modulation Index Graph allows the user to adjust the level of modulation over time. The higher the amount on the graph, the greater the modulation will be. Add to the modulation graph by clicking along the graph and dragging.
+
+Amplitude:
+
+The Amplitude Graph allows the user to adjust the amplitude of the carrier signal over time. Add to the amplitude graph by clicking along the graph and dragging.
+
+------------------------------------------------------------------------------------------------------------------------------------------
+
+Distortion Knob:
+
+The Distortion Knob can be used to add more bite to the bass. Adjust the knob to adjust the amount of distortion applied to the signal.
+
+Chorus Knob:
+
+The Chorus Knob can be used to add width to the signal. To adjust the amount of chorus on the signal, adjust the knob. The chorus is will not effect the low end of the signal as it is filtered above 300 hz
+
+Noise Knob:
+
+The Noise Knob can be used to add additional punch to the beginning of the signal. Adjusting the knob will adjust the volume of white noise added at the beginning of each note played. This is great to use in small amounts to add punch to your bass.
+
+------------------------------------------------------------------------------------------------------------------------------------------
+
+Created by Rocky Oberti
